@@ -1,0 +1,3 @@
+下载 Pycharm
+之后 导入PyQt5，opencv，dlib库
+就可以直接在Pycharm打开运行了
